@@ -1,0 +1,9 @@
+{
+  "mcp": {
+    "blender": {
+      "type": "local",
+      "command": ["python", "C:/path/to/blender-mcp/mcp_server/blender_mcp.py"],
+      "enabled": true
+    }
+  }
+}
